@@ -1,0 +1,14 @@
+{
+    "require": {
+        "mailerlite/mailerlite-api-v2-php-sdk": "^0.3.2",
+        "php-http/guzzle6-adapter": "^2.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        },
+        "platform":{
+            "php": "7.1"
+        }
+    }
+}

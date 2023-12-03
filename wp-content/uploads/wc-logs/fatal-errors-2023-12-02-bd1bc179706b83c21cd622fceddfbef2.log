@@ -1,0 +1,94 @@
+2023-12-02T05:36:48+00:00 CRITICAL Uncaught Error: Class "ElementorPro\Core\Compatibility\Compatibility" not found in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php:477
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php(133): ElementorPro\Plugin->__construct()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php(525): ElementorPro\Plugin::instance()
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\elementor-pro.php(89): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): elementor_pro_load_plugin('')
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wordpress\wp-settings.php(506): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php on line 477
+
+2023-12-02T05:36:58+00:00 CRITICAL Uncaught Error: Class "ElementorPro\Core\Compatibility\Compatibility" not found in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php:477
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php(133): ElementorPro\Plugin->__construct()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php(525): ElementorPro\Plugin::instance()
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\elementor-pro.php(89): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): elementor_pro_load_plugin('')
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wordpress\wp-settings.php(506): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php on line 477
+
+2023-12-02T05:37:01+00:00 CRITICAL Uncaught Error: Class "ElementorPro\Core\Compatibility\Compatibility" not found in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php:477
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php(133): ElementorPro\Plugin->__construct()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php(525): ElementorPro\Plugin::instance()
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\elementor-pro.php(89): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): elementor_pro_load_plugin('')
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wordpress\wp-settings.php(506): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php on line 477
+
+2023-12-02T05:37:05+00:00 CRITICAL Uncaught Error: Class "ElementorPro\Core\Compatibility\Compatibility" not found in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php:477
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php(133): ElementorPro\Plugin->__construct()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php(525): ElementorPro\Plugin::instance()
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\elementor-pro.php(89): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): elementor_pro_load_plugin('')
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wordpress\wp-settings.php(506): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\wordpress\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php on line 477
+
+2023-12-02T05:37:10+00:00 CRITICAL Uncaught Error: Class "ElementorPro\Core\Compatibility\Compatibility" not found in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php:477
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php(133): ElementorPro\Plugin->__construct()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php(525): ElementorPro\Plugin::instance()
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\elementor-pro.php(89): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): elementor_pro_load_plugin('')
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wordpress\wp-settings.php(506): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\wordpress\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php on line 477
+
+2023-12-02T05:37:11+00:00 CRITICAL Uncaught Error: Class "ElementorPro\Core\Compatibility\Compatibility" not found in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php:477
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php(133): ElementorPro\Plugin->__construct()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php(525): ElementorPro\Plugin::instance()
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\elementor-pro.php(89): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): elementor_pro_load_plugin('')
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wordpress\wp-settings.php(506): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\wordpress\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro-3.16.4-master\plugin.php on line 477
+
